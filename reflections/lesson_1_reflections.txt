@@ -1,0 +1,39 @@
+fc - file compare, sulygina failus (fc failas1 failas2)
+diff taspats kas fc tik linuxe ir apple os
+rasyti koda kuo trumpesnem eilutem, kad butu lengviau lyginti atsiradus bugams
+Cmd komandos (subl, dir, cd, Partition:, mkdir)
+Daug lengviau lyginti skirtyngas kodo versija naudojantis lyginimo komandom nei paciam.
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was much easier to find new bug
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Butu daug lengviau pastebeti daznai daromas klaidas ir stengtis ju nedaryti. Taip pat padetu greiciau istaisyti klaidas.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Isaugai tuomet kai tau tai yra palankiau o ne random, taip paprasciau lyginti failus.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    git padeda valdyti failu sistemas tokias kaip programu projektus, o google docs individulius darbus, tokius kaip ataskaitas
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Paziureti kokie pakeitimai ir kada buvo daryti projektui ir juos palyginti
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Zinojimas, kad betkada galiu grysti prie praitos versijos ir ja sulyginti su nauja, palengvina nauju bugu radima ir taisyma
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Sukurti savo repository ir dar karta patestuoti viska
