@@ -10,6 +10,7 @@ git init
 git add ; git reset
 git reset --hard : pasalina visus pokycius is working directory ir staging area !!atsargiai!!
 git commit
+git commit -m "zinute" : iskarto su zinute issaugo commita
 git branch
 git merge branch2 branch3 : sujungia branchus
 git branch -d branch1 : istrina brancha
@@ -17,3 +18,4 @@ git remote : parodo dabartinius remotus
 git remote add pavadinimas linkas : prideda remota
 git remote -v : parodo daugiau info
 git push remotoPavadinimas branchas : ikelia pokycius i gethuba
+git pull remotoPavadinimas branchas : atsiuncia pokycius is gethubo
