@@ -13,3 +13,7 @@ git commit
 git branch
 git merge branch2 branch3 : sujungia branchus
 git branch -d branch1 : istrina brancha
+git remote : parodo dabartinius remotus
+git remote add pavadinimas linkas : prideda remota
+git remote -v : parodo daugiau info
+git push remotoPavadinimas branchas : ikelia pokycius i gethuba
