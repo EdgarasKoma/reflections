@@ -1,7 +1,15 @@
 git clone
 git checkout
-git diff
+git checkout branch pavadinimas : grysta prie pagrindinio branch failo
+git diff : nerasant commitu id parodo skirtumus tarp working directory ir staging area
+git diff --staged : parodo kokie pokyciai yra staging area
 git log
+git log --graph --oneline : patogiau isdesto log
 git status
 git init
 git add ; git reset
+git reset --hard : pasalina visus pokycius is working directory ir staging area !!atsargiai!!
+git commit
+git branch
+git merge branch2 branch3 : sujungia branchus
+git branch -d branch1 : istrina brancha

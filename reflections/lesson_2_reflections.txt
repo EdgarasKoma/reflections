@@ -5,16 +5,29 @@ Sukuria repository kuriam bus saugomi commitai
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+staging area yra vieta kurioje susdiliojami failai kurie bus pakeisti o working directory ir repository jau issaugoti failai.
+staging are leidzia skirtyngus pokeicius susideliot i skirtyngus commitus
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+sulygindamas ja su working directory ir ziurint kokie pokyciai joje buvo padaryti sulyginant su orginaliu failu
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Kuriant skirtyngas versijas kodo
+
 How do the diagrams help you visualize the branch structure?
+
+Padeda suvokti kaip susijungia branchai su kitais commitais
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Sujungia visus pkycius i viena programa.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Susitaupo daug laiko, bet darydamas viska pats gali labiau viska apgalvot ir optimizuot
