@@ -1,3 +1,4 @@
+cd ~
 git clone
 git checkout
 git checkout branch pavadinimas : grysta prie pagrindinio branch failo
@@ -19,3 +20,4 @@ git remote add pavadinimas linkas : prideda remota
 git remote -v : parodo daugiau info
 git push remotoPavadinimas branchas : ikelia pokycius i gethuba
 git pull remotoPavadinimas branchas : atsiuncia pokycius is gethubo
+git fetch : pokycius remote prideda i lokalia versija kaip brancha
